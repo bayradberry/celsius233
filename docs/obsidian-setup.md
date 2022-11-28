@@ -8,7 +8,7 @@ My Obsidian vault setup is geared toward bullet journaling and life management, 
 
 # Outline
 [Setup](#Setup)
-- [1. Personal knowledge management (PKM)](#1-personal-knowledge-management-(PKM))
+- [1. Personal knowledge management (PKM)](#1-personal-knowledge-management-PKM)
 - [2. Daily notes](#2-daily-notes)
 - [3. Tasks and projects](#3-tasks-and-projects)
 - [4. Events](#4-events)
