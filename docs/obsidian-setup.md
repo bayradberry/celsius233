@@ -88,7 +88,7 @@ To easily create a new note with one of these three templates, I created the fol
 2. Create as many TEMPLATE items as you need and move them into the MULTI item so that the TEMPLATE items are nested and ordered inside the MULTI item.
 3. Note: Using this method means that you do not have to set hotkeys on the nested commands.
 
-![Obsidian Quickadd](docs/assets/obsidian-quickadd.png)
+![Obsidian Quickadd](assets/obsidian-quickadd.png)
 
 *([^ top](#Introduction))*
 
@@ -228,7 +228,7 @@ I now have access to ~80% of the content that I might need to get to in my vault
 
 Below is a screenshot of my dashboard in action:
 
-![Obsidian dashboard](docs/assets/obsidian-dashboard.png)
+![Obsidian dashboard](assets/obsidian-dashboard.png)
 
 It is important for me to have a dashboard that is one column and succinct in its layout, with links to deeper content/tracking as opposed to a sprawling command center that my eyes will glaze over and cause me to lose focus.
 
