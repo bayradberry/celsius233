@@ -4,7 +4,7 @@
 ---
 
 # Introduction
-My Obsidian vault setup is geared toward bullet journalling and life management, with a secondary focus on PKM. So it's not heavily focused on studying and knowledge retention, which many of the vault setups I've read and watched seem to focus on. That is great for students but I wanted to show a setup more geared toward knowledge workers and project/product managers.
+My Obsidian vault setup is geared toward bullet journaling and life management, with a secondary focus on PKM. So it's not heavily focused on studying and knowledge retention, which many of the vault setups I've read and watched seem to focus on. That is great for students but I wanted to show a setup more geared toward knowledge workers and project/product managers.
 
 # Outline
 [Setup](#Setup)
