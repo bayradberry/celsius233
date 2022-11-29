@@ -135,7 +135,7 @@ I use the [Tasks plugin](https://github.com/obsidian-tasks-group/obsidian-tasks)
 (backticks)tasks
 not done
 (has due date) OR (priority is above none)
-short mode
+hide backlinks
 hide task count
 (backticks)
 ```
